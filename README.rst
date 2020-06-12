@@ -92,6 +92,7 @@ Pandas can help us annotate columns and rows:
   C   5  30   3
 
 Viewing the expected transition frequency matrix:
+>>> (expected assuming that the variables are independent)
 
 .. code:: python
 
